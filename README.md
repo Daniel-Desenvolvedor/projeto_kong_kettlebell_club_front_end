@@ -14,4 +14,4 @@ Para testar o projeto execute o comando:
 
 Abra o [http://localhost:3000](http://localhost:3000) para ver o projeto no navegador.
 
-A página será recarregada depois de qualquer alteração no código.\
+A página será recarregada depois de qualquer alteração no código.
